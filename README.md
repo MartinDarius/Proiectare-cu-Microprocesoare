@@ -1,4 +1,4 @@
-# Inteligent greenhouse
+# Intelligent greenhouse
 
 
 ## Description
