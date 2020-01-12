@@ -7,6 +7,9 @@ This greenhouse was created as a college assignment,it solves three big problems
 ## Visuals 
 Screenshots and photos with the project can be found in the documentatie.docx 
 
+## Instalation
+At first, you must connect the sensors to the Arduino Uno analogic pins (A0,A1,A2); then connect the servo-motors to the digital pins (9,10,11) and connect the plate to a computer. Upload the code on the plate and your mini greenhouse is ready.
+
 ## Suport 
 If you have questions about this project, you can contact me on my personal e-mail: martin.darius1998@yahoo.com
 
